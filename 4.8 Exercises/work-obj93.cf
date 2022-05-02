@@ -1,0 +1,4 @@
+v 4
+file . "e2a.vhd" "520564ec8427c2578cda3ba470516cc3315acf11" "20200104133750.967":
+  entity funcao at 1( 0) + 0 on 19;
+  architecture arc of funcao at 9( 132) + 0 on 20;
